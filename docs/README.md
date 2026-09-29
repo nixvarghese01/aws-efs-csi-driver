@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) as a reference for **the Amazon EFS CSI driver for Kubernetes**. Reference for persistent storage on EKS.
+> All credit for the content goes to the original authors.
+
 # Amazon EFS CSI Driver
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kubernetes-sigs/aws-efs-csi-driver?filter=!*chart*)](https://github.com/kubernetes-sigs/aws-efs-csi-driver/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubernetes-sigs/aws-efs-csi-driver)](https://goreportcard.com/report/github.com/kubernetes-sigs/aws-efs-csi-driver)
